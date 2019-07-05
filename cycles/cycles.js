@@ -9,7 +9,7 @@ while (i < 8){
     i++;
 }
 
-var j = 1;
+var j = 2;
 
 do{
     console.log(j);
